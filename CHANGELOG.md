@@ -1,5 +1,19 @@
 # Changelog
 
+## 0.105.0 (2026-05-27)
+
+Full Changelog: [v0.104.1...v0.105.0](https://github.com/anthropics/anthropic-sdk-python/compare/v0.104.1...v0.105.0)
+
+### Features
+
+* support custom file size caps ([#1825](https://github.com/anthropics/anthropic-sdk-python/issues/1825)) ([7e5f944](https://github.com/anthropics/anthropic-sdk-python/commit/7e5f944ad85bd99526d9df30dc034f657472adaa))
+* **tools:** add beta_tool(custom=True) for managed agents usage ([#1824](https://github.com/anthropics/anthropic-sdk-python/issues/1824)) ([afe597f](https://github.com/anthropics/anthropic-sdk-python/commit/afe597f9d8866573437a2e1cb7ddb7f73d4e4ec1))
+
+
+### Chores
+
+* **examples:** rename managed-agents private-sandbox-worker to self-hosted-sandbox-worker ([#1822](https://github.com/anthropics/anthropic-sdk-python/issues/1822)) ([750f956](https://github.com/anthropics/anthropic-sdk-python/commit/750f956a535b9e4772951d6bf1abd81203f27d4e))
+
 ## 0.104.1 (2026-05-21)
 
 Full Changelog: [v0.104.0...v0.104.1](https://github.com/anthropics/anthropic-sdk-python/compare/v0.104.0...v0.104.1)
